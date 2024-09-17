@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Может тут что-то будет, НО ПОКА ДАЙТЕ МНЕ ПОДПИСКУ
 <!--
 **ldpst/ldpst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
