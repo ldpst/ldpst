@@ -1,5 +1,6 @@
 ## Личное хранилище моих лаб, домашек и прочих файлов
 Любое использование материалов без указания авторства приравнивается к воровству и плагиату
+![](https://komarev.com/ghpvc/?username=ldpst)
 <!--
 **ldpst/ldpst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
