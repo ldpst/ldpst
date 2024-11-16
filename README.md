@@ -6,7 +6,7 @@
 <h1>About me:</h1>
 - 🥇 My name is Melnik Fedor<br>
 - 🎲 I'm 18 y.o.<br>
-- 🏢 I'm living Saint's Peterburg, Russia<br>
+- 🏢 I'm live Saint's Peterburg, Russia<br>
 - 💻 I’m studing at <a href="https://itmo.ru/">ITMO University</a> SE'28
 <h2>What I know:</h2>
 <div align="left">
