@@ -1,6 +1,6 @@
 <h1>Hi! I'm <a href="https://t.me/ldpst">ldpst</a> 🌟</h1>
 <div align="center">
-  <img alt="Hello//" src="https://github.com/ldpst/itmo/blob/main/.data/rei-ayanami-rei.gif" width=700 height=293></img>
+  <img alt="Hello//" src="https://github.com/ldpst/itmo/blob/main/.data/rei-ayanami-rei.gif" style="width:175%; height:auto;"></img>
 </div><br>
 <div align="left">
 <h1>About me:</h1>
