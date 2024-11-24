@@ -13,23 +13,23 @@
   <table>
     <tr>
       <th>Programming languages</th>
-      <th>Preferred IDEs</th>
+<!--       <th>Preferred IDEs</th> -->
     </tr>
     <tr>
       <td>
         <p align="center">
   					<a href="https://python.org" target="_blank" rel="noreferrer">
-  						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></img>
   					</a>
   					<a href="https://java.com" target="_blank" rel="noreferrer">
-  						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"></img>
   					</a>
   					<a href="https://isocpp.org" target="_blank" rel="noreferrer">
-  						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
+  						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"></img>
   					</a>
         </p>
       </td>
-      <td>
+<!--       <td>
         <p align="center">
 					<a href="https://jetbrains.org/idea" target="_blank" rel="noreferrer">
 						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
@@ -41,7 +41,7 @@
 						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" />
 					</a>
         </p>
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>
