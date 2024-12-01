@@ -8,12 +8,12 @@
 - 🎲 I'm 18 y.o.<br>
 - 🏢 I live in Saint's Peterburg, Russia<br>
 - 💻 I’m studing at <a href="https://itmo.ru/">ITMO University</a> SE'28
-<h2>What I know:</h2>
+<!--<h2>What I know:</h2>
 <div align="left">
   <table>
     <tr>
       <th>Programming languages</th>
-<!--       <th>Preferred IDEs</th> -->
+      <th>Preferred IDEs</th>
     </tr>
     <tr>
       <td>
@@ -29,7 +29,7 @@
   					</a>
         </p>
       </td>
-<!--       <td>
+      <td>
         <p align="center">
 					<a href="https://jetbrains.org/idea" target="_blank" rel="noreferrer">
 						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
@@ -41,10 +41,11 @@
 						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" />
 					</a>
         </p>
-      </td> -->
+      </td>
     </tr>
   </table>
+</div> -->
 </div>
-</div>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=ldpst)
