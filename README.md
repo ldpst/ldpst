@@ -3,15 +3,19 @@
 ### Java Backend Developer | DevOps Engineer | <a href="https://itmo.ru/">ITMO University</a> Student SE'28
 
 <div align="center">
-<img src="./cats.jpg" alt="Profile banner" width="40%" height="auto"/>
+  <img src="./cats.jpg" alt="Profile banner" width="40%" height="auto"/>
 </div>
 
-## About me 
+## About me
 
-- Java Backend Developer and DevOps Engineer focused on building, deploying, and maintaining backend services.
-- Software Engineering '28 student at ITMO University.
+* Java Backend Developer and DevOps Engineer focused on building, deploying, and maintaining backend services.
+* Software Engineering '28 student at ITMO University.
 
-## Tech Stack
+## Tech Skills
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 ### Backend
 
@@ -27,6 +31,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge\&logo=flyway\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
 
 ### DevOps
 
@@ -51,11 +58,9 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge\&logo=gradle\&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
 
----
-
-## GitHub stats
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ldpst&langs_count=4&disable_animations=true&theme=transparent)
+</td>
+  </tr>
+</table>
 
 ---
 
