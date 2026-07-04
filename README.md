@@ -53,23 +53,6 @@
 
 ---
 
-## Featured projects
-
-### QueueForge
-
-Backend project focused on queue processing, concurrent requests, integration testing, and reliable API behavior.
-
-**Key points:**
-
-* REST API with Spring Boot
-* PostgreSQL database with Flyway migrations
-* Integration tests with Testcontainers
-* Concurrent request handling
-* CI pipeline with GitHub Actions
-* Swagger/OpenAPI documentation
-
----
-
 ## GitHub stats
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ldpst&langs_count=4&disable_animations=true&theme=transparent)
